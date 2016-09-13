@@ -1,0 +1,20 @@
+c:\users\ligaofei\documents\visual studio 2012\Projects\WinFormUI\WinFormUI\bin\Debug\WinFormUI.exe.config
+c:\users\ligaofei\documents\visual studio 2012\Projects\WinFormUI\WinFormUI\bin\Debug\WinFormUI.exe
+c:\users\ligaofei\documents\visual studio 2012\Projects\WinFormUI\WinFormUI\bin\Debug\WinFormUI.pdb
+c:\users\ligaofei\documents\visual studio 2012\Projects\WinFormUI\WinFormUI\bin\Debug\CSkin.dll
+c:\users\ligaofei\documents\visual studio 2012\Projects\WinFormUI\WinFormUI\bin\Debug\CSkin.xml
+c:\users\ligaofei\documents\visual studio 2012\Projects\WinFormUI\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+c:\users\ligaofei\documents\visual studio 2012\Projects\WinFormUI\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+c:\users\ligaofei\documents\visual studio 2012\Projects\WinFormUI\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.Cache
+c:\users\ligaofei\documents\visual studio 2012\Projects\WinFormUI\WinFormUI\obj\Debug\WinFormUI.exe
+c:\users\ligaofei\documents\visual studio 2012\Projects\WinFormUI\WinFormUI\obj\Debug\WinFormUI.pdb
+C:\Users\ligaofei\Documents\Visual Studio 2012\Projects\WinFormUI\WinFormUI\obj\Debug\WinFormUI.DTest.resources
+\\file01\UserFiles\ligaofei\DataTool_Share\WinFormUI\WinFormUI\bin\Debug\WinFormUI.exe.config
+\\file01\UserFiles\ligaofei\DataTool_Share\WinFormUI\WinFormUI\obj\Debug\WinFormUI.exe
+\\file01\UserFiles\ligaofei\DataTool_Share\WinFormUI\WinFormUI\obj\Debug\WinFormUI.pdb
+\\file01\UserFiles\ligaofei\DataTool_Share\WinFormUI\WinFormUI\bin\Debug\WinFormUI.exe
+\\file01\UserFiles\ligaofei\DataTool_Share\WinFormUI\WinFormUI\bin\Debug\WinFormUI.pdb
+\\file01\UserFiles\ligaofei\DataTool_Share\WinFormUI\WinFormUI\obj\Debug\WinFormUI.DTest.resources
+\\file01\UserFiles\ligaofei\DataTool_Share\WinFormUI\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+\\file01\UserFiles\ligaofei\DataTool_Share\WinFormUI\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.Cache
+\\file01\UserFiles\ligaofei\DataTool_Share\WinFormUI\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
