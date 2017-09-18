@@ -193,7 +193,7 @@
             this.toolStripLabel_Info.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.toolStripLabel_Info.Name = "toolStripLabel_Info";
             this.toolStripLabel_Info.Size = new System.Drawing.Size(164, 22);
-            this.toolStripLabel_Info.Text = "上海富欣智交通控制有限公司";
+            this.toolStripLabel_Info.Text = "Author:Jack Chen";
             // 
             // skinToolStrip1
             // 
